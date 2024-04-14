@@ -27,3 +27,6 @@ for i in range(10) :
 print("sum of odd" , o_sum)
 print("sum of even" , e_sum) 
 print("sum of prime" , p_sum)
+print{}
+hi
+hjhjh3jkf
